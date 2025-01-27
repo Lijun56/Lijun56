@@ -11,7 +11,7 @@
 🎓 Obtained <b>B.S. in Computer Engineering</b> at Purdue University in May 2024.
 🚩 Interested in Full Stack Machine Learning Application development
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>full-time</b> job opportunity. 
-🌐 In case you are interested in learning more about me, visit my website at <a href="https://www.stefnz.com" target="_blank">https://www.stefenz.com</a> .
+🌐 In case you are interested in learning more about me, visit my website at <a href="https://www.stefenz.com" target="_blank">https://www.stefenz.com</a> .
 <!-- , or find my CV here at <a href="https://www.stefenz.com/static/files/CV.pdf" target="_blank">https://www.stefenz.com/cv</a>. -->
 
 </pre>
